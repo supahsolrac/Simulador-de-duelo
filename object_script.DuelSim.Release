@@ -1,0 +1,11 @@
+release/escudeiro.o
+release/guerreiro.o
+release/hero.o
+release/inimigo.o
+release/janelaprinc.o
+release/mago.o
+release/main.o
+release/party.o
+release/pers.o
+release/qrc_images.o
+release/moc_janelaprinc.o

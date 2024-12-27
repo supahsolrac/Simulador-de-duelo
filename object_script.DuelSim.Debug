@@ -1,0 +1,11 @@
+debug/escudeiro.o
+debug/guerreiro.o
+debug/hero.o
+debug/inimigo.o
+debug/janelaprinc.o
+debug/mago.o
+debug/main.o
+debug/party.o
+debug/pers.o
+debug/qrc_images.o
+debug/moc_janelaprinc.o
